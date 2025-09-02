@@ -192,7 +192,7 @@ safezoney 1                         //HUD竖直方向缩放百分比
 
 ## 按键绑定
 
-![ 【CS2】键位图 ](E:\Knowledge\附件\AA1qYcHX.webp)
+![ 【CS2】键位图 ](AA1qYcHX.webp)
 
 ```c
 //══════════════════════ 按键绑定 ══════════════════════
@@ -481,3 +481,4 @@ echo "===================== 跑图配置加载完毕 ====================="
 # 反恐精英2控制台代码
 
 [控制台代码网站](https://developer.valvesoftware.com/wiki/List_of_Counter-Strike_2_console_commands_and_variables)
+
