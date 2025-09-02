@@ -1,3 +1,4 @@
+[TOC]
 # 启动项
 
 ```c
@@ -481,4 +482,5 @@ echo "===================== 跑图配置加载完毕 ====================="
 # 反恐精英2控制台代码
 
 [控制台代码网站](https://developer.valvesoftware.com/wiki/List_of_Counter-Strike_2_console_commands_and_variables)
+
 
